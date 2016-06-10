@@ -1,4 +1,5 @@
-# Starting up Ambient Engine with Sonic Pi v2.10
+# Ambient Engine
+# Sonic Pi v2.10
 #
 # SoundCloud: https://soundcloud.com/kesara_nr/sc00-ambient-engine
 #
